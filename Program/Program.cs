@@ -4,6 +4,7 @@
     {
         Console.WriteLine("Hello, world!");
         Console.WriteLine("Zdravo svijete!");
-        Console.WriteLine("Novo");
+        Console.WriteLine("Novo1, Novo2" +
+          ");
     }
 }
