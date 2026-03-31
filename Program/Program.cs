@@ -1,10 +1,13 @@
-﻿internal class Program
+﻿namespace Program
 {
-    private static void Main(string[] args)
+    internal class Program
     {
-        Console.WriteLine("Hello, world!");
-        Console.WriteLine("Zdravo svijete!");
-        Console.WriteLine("Novo1, Novo2");
-        Console.WriteLine("Četvrta izmjena!");
+        private static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, world!");
+            Console.WriteLine("Zdravo svijete!");
+            Console.WriteLine("Novo1, Novo2");
+            Console.WriteLine("Četvrta izmjena!");
+        }
     }
 }
