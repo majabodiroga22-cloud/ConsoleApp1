@@ -8,6 +8,7 @@
             Console.WriteLine("Zdravo svijete!");
             Console.WriteLine("Novo1, Novo2");
             Console.WriteLine("Četvrta izmjena!");
+            Console.WriteLine("Ovo je 5 izmjena");
         }
     }
 }
