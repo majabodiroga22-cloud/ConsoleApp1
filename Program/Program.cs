@@ -9,6 +9,7 @@
             Console.WriteLine("Novo1, Novo2");
             Console.WriteLine("Četvrta izmjena!");
             Console.WriteLine("Peta izmjena");
+            Console.WriteLine("Ovo je sesta izmjena");
         }
     }
 }
