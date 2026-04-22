@@ -10,6 +10,7 @@
             Console.WriteLine("Četvrta izmjena!");
             Console.WriteLine("Peta izmjena");
             Console.WriteLine("Ovo je sesta izmjena");
+            Console.WriteLine("Ovo je sedma izmjena");
         }
     }
 }
